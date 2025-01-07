@@ -1,0 +1,293 @@
+@font-face {
+  font-family: Circular Std;
+  src: url(../fonts/Circular\ Std\ Book.ttf);
+}
+
+body {
+  font-family: Circular Std, Arial, Helvetica, sans-serif;
+}
+
+.sermon {
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* Card CSS */
+.sermon_card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  width: 100%;
+
+  /* width: calc(100% / 4); */
+  /* margin-bottom: 30px; */
+  /* margin-right: 15px; */
+}
+
+.sermon_img {
+  width: 100%;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.sermon_container {
+  padding: 2px 16px;
+}
+
+/* .card_display {
+  display: flex;
+  flex-wrap: wrap;
+  height: max-content;
+  max-width: 100%;
+  row-gap: 50px;
+  column-gap: 126px;
+} */
+
+.card_display {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: repeat(3, 1fr);
+  grid-column-gap: 24px;
+  grid-row-gap: 16px;
+  width: 100%;
+}
+
+/* sermon section */
+.sermon_title {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+.sermon_preacher {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.sermon_date {
+  margin-top: 8px;
+  margin-bottom: 16px;
+  color: #828282;
+}
+.download_btn {
+  text-align: center;
+  background-color: #333d47;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+.download_btn:hover {
+  background-color: #565a5e;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.download_icon {
+  margin-right: 10px;
+  width: 15%;
+}
+
+/* Screen size  */
+
+/* Screen size  */
+@media (max-width: 1024px) {
+  /* .card_display {
+    display: flex;
+    flex-wrap: wrap;
+    height: max-content;
+    max-width: 100%;
+    row-gap: 50px;
+    column-gap: 53px;
+  } */
+
+  .card_display {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    grid-row-gap: 16px;
+    width: 100%;
+  }
+
+  .sermon_card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  /* .card_display {
+    display: flex;
+    flex-wrap: wrap;
+    height: max-content;
+    max-width: 100%;
+    row-gap: 50px;
+    column-gap: 75px;
+  } */
+
+  .card_display {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    grid-row-gap: 16px;
+    width: 100%;
+  }
+
+  .sermon_card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) and (min-width: 374px) {
+  .sermon {
+    width: 96%;
+  }
+  .card_display {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-auto-rows: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    grid-row-gap: 16px;
+    width: 100%;
+  }
+  .sermon_card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    /* width: calc(100% / 2.3); */
+    width: 100%;
+  }
+  /* .card_display {
+    column-gap: 47px;
+  } */
+}
+
+@media (max-width: 375px) {
+  .sermon {
+    width: 96%;
+  }
+  .card_display {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-auto-rows: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    grid-row-gap: 16px;
+    width: 100%;
+  }
+  .sermon_card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    /* width: calc(100% / 2.3); */
+    display: block;
+    width: 100%;
+  }
+  .card_display {
+    column-gap: 38px;
+  }
+  .download_btn {
+    font-size: 12px;
+  }
+  .sermon-date {
+    font-size: 12px;
+  }
+  .sermon_preacher {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 320px) {
+  .sermon {
+    width: 96%;
+  }
+  /* .card_display {
+    column-gap: 26px;
+  } */
+  .sermon-date {
+    font-size: 10px;
+  }
+  .download_icon {
+    display: none;
+  }
+}
+
+/* Screen size 650px and below */
+/* @media (max-width: 650px) {
+    .sermon_card {
+      width: 160px;
+      margin-right: 10px;
+    }
+    .sermon {
+      margin: 0 auto;
+      width: 100%;
+    }
+  
+    .sermon_title {
+      margin-top: 14px;
+      margin-bottom: 6px;
+      font-size: 12px;
+    }
+    .sermon_preacher {
+      margin-top: 6px;
+      margin-bottom: 6px;
+      font-size: 10px;
+    }
+    .sermon_date {
+      margin-top: 6px;
+      margin-bottom: 10px;
+      color: #828282;
+      font-size: 8px;
+    }
+    .download_icon {
+      margin-right: 10px;
+      width: 20%;
+    }
+    .download_btn {
+      text-align: center;
+      background-color: #333d47;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+      font-size: 8px;
+    }
+  
+    .sermon_container {
+      padding: 2px 10px;
+    }
+    .card_display {
+      display: flex;
+      align-content: space-between;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      height: max-content;
+      max-width: 100%;
+    }
+  } */
+
+/* @media (max-width: 900px) and (min-width: 650px) {
+    .card_display {
+      display: flex;
+      align-content: space-between;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      height: max-content;
+      max-width: 100%;
+    }
+  } */
