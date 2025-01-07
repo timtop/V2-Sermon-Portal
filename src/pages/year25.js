@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
 
-import pri from "../images/2025/Priorities.jpeg";
+import pri from "../images/twenty-twentyfive/priorities.jpeg";
 
 const sermons = [
   {
