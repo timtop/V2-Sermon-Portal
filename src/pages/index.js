@@ -9,8 +9,36 @@ import dbild from "../images/the-builders.jpeg";
 import xchge from "../images/the-exchange.jpg";
 import hc1 from "../images/hc1.jpeg";
 import hc2 from "../images/hc2.jpeg";
+import tms from "../images/tms.jpg";
+import tms2 from "../images/tms2.jpg";
+import joy from "../images/joy-noise.jpg";
 
 const sermons = [
+  {
+    title: "Joyful Noise, Thanks Giving & Worship Service",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 21st July 2024",
+    link: "https://drive.google.com/file/d/12HaEsejNF_KE9_yHpIqBHFsH0tubiKpa/view?usp=drive_link",
+    name: "Priorities - 21/07/24",
+    img: joy,
+  },
+  {
+    title: "The Messy Series. Tap In - Mercy has no expiration date",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 19th May 2024",
+    link: "https://drive.google.com/file/d/1CJpdE6dd0YA2MC08btKtrN0NInRbzLvM/view?usp=drive_link",
+    name: "Priorities - 19/05/24",
+    img: tms2,
+  },
+  {
+    title:
+      "The Messy Series. Solid Mercy Game Through The Old and New Testament",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 12th May 2024",
+    link: "https://drive.google.com/file/d/1igXIZ2T4LiQQIGj27YX_QCpVWQ0rHvmK/view?usp=drive_link",
+    name: "Priorities - 12/05/24",
+    img: tms,
+  },
   {
     title: "Honour Code: Discovering the powers of honouring relationships",
     preacher: "Pst. Mayowa Agbelese",
