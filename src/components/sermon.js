@@ -14,7 +14,12 @@ function Sermon({ sermons, sermonYear }) {
             </div>
             <div className="sermon_preacher">{sermon.preacher}</div>
             <div className="sermon_date">{sermon.date}</div>
-            <a href={sermon.link} download={sermon.name}>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={sermon.link}
+              download={sermon.name}
+            >
               <div className="download_btn">
                 <img src={downloadbtn} alt="Avatar" className="download_icon" />
                 Download

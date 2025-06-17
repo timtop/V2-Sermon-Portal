@@ -6,5 +6,5 @@ module.exports = {
     title: `v2-sermon portal`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
-}
+  plugins: [`gatsby-plugin-react-helmet`],
+};

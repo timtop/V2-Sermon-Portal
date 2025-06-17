@@ -2,6 +2,7 @@ import * as React from "react";
 import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
+import { Helmet } from "react-helmet";
 
 import pri from "../images/twenty-twentyfive/priorities.jpeg";
 import symph from "../images/twenty-twentyfive/symphony.jpg";
@@ -11,8 +12,18 @@ import ecos from "../images/twenty-twentyfive/ecos.jpg";
 import bpray from "../images/twenty-twentyfive/buildprayer.jpg";
 import create from "../images/twenty-twentyfive/create.jpg";
 import tpc from "../images/twenty-twentyfive/tpc.jpg";
+import liv from "../images/twenty-twentyfive/liv-purpose.jpeg";
 
 const sermons = [
+  {
+    title:
+      "Living in Purpose - Graces and places in connection with your calling",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 15th June 2025",
+    link: "https://drive.google.com/file/d/1A99nK4oKGCa6svW7r28-kgf9YZnH2GcZ/view?usp=drive_link",
+    name: "Priorities - 15/06/25",
+    img: liv,
+  },
   {
     title: "The Purpose Code",
     preacher: "Dcn. Opeyemi Agbelese",
@@ -67,7 +78,7 @@ const sermons = [
     date: "Sunday 16th February 2025",
     link: "https://drive.google.com/file/d/1g5GolNGrGy_IF7Hgos07v9VUJu22E3QV/view?usp=drive_link",
     name: "Priorities - 16/02/25",
-    img: pri,
+    img: symph,
   },
   {
     title: "SYMPHONY CONFERENCE 2025",
@@ -94,15 +105,20 @@ const tabs = [
 
 const year25 = () => {
   return (
-    <main>
-      <Header />
+    <>
+      <Helmet>
+        <link rel="icon" href="/favicon.ico" />
+      </Helmet>
+      <main>
+        <Header />
 
-      <div>
-        <Tabs tabs={tabs} activeTab="/year25" />
-      </div>
+        <div>
+          <Tabs tabs={tabs} activeTab="/year25" />
+        </div>
 
-      <Sermon sermons={sermons} sermonYear={"2025 Sermons"} />
-    </main>
+        <Sermon sermons={sermons} sermonYear={"2025 Sermons"} />
+      </main>
+    </>
   );
 };
 

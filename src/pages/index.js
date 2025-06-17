@@ -2,6 +2,7 @@ import * as React from "react";
 import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
+import { Helmet } from "react-helmet";
 
 import cbh from "../images/CBH.jpg";
 import fitmi from "../images/FITMI.jpg";
@@ -81,7 +82,7 @@ const sermons = [
   },
   {
     title: "Faith it till you Make it",
-    preacher: "Pst. Mayowa Agbelese",
+    preacher: "Pst. Adetoun Adekoya",
     date: "Sunday 3rd March 2024",
     link: "https://drive.google.com/file/d/1_OAXCo_KOwOKyImOeYS6mziIVJOR2p9k/view?usp=drive_link",
     name: "Faith it till you Make it - 26/06/23",
@@ -96,16 +97,22 @@ const tabs = [
 
 const IndexPage = () => {
   return (
-    <main>
-      <Header />
-      {/* <Tab /> */}
+    <>
+      <Helmet>
+        <link rel="icon" href="/favicon.ico" />
+      </Helmet>
 
-      <div>
-        <Tabs tabs={tabs} activeTab="/" />
-      </div>
+      <main>
+        <Header />
+        {/* <Tab /> */}
 
-      <Sermon sermons={sermons} sermonYear={"2024 Sermons"} />
-    </main>
+        <div>
+          <Tabs tabs={tabs} activeTab="/" />
+        </div>
+
+        <Sermon sermons={sermons} sermonYear={"2024 Sermons"} />
+      </main>
+    </>
   );
 };
 
