@@ -13,8 +13,17 @@ import bpray from "../images/twenty-twentyfive/buildprayer.jpg";
 import create from "../images/twenty-twentyfive/create.jpg";
 import tpc from "../images/twenty-twentyfive/tpc.jpg";
 import liv from "../images/twenty-twentyfive/liv-purpose.jpeg";
+import lip2 from "../images/twenty-twentyfive/lip2.jpg";
 
 const sermons = [
+  {
+    title: "Living in Purpose - Understanding seasons in your calling",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 22nd June 2025",
+    link: "https://drive.google.com/file/d/1xfyWdgdjV6Fcm_sKjJXk5gD26VsSnLwT/view?usp=sharing",
+    name: "Priorities - 22/06/25",
+    img: lip2,
+  },
   {
     title:
       "Living in Purpose - Graces and places in connection with your calling",
@@ -63,6 +72,22 @@ const sermons = [
     link: "https://drive.google.com/file/d/1igXIZ2T4LiQQIGj27YX_QCpVWQ0rHvmK/view?usp=drive_link",
     name: "Priorities - 11/05/25",
     img: pray,
+  },
+  {
+    title: "Thorns to Throne",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 20th April, 2025",
+    link: "https://drive.google.com/file/d/1-8Arm1me0PZLdME49WRD52lsNObdQTYL/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: pri,
+  },
+  {
+    title: " Go. Walking by faith and not by sight",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 6th April, 2025",
+    link: "https://drive.google.com/file/d/12mp11OJlhq9U3JsVl90V30RRmxTedCYD/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: pri,
   },
   {
     title: "Emotional Baggage. Healing from trauma, closure and moving on",
