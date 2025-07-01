@@ -14,8 +14,17 @@ import create from "../images/twenty-twentyfive/create.jpg";
 import tpc from "../images/twenty-twentyfive/tpc.jpg";
 import liv from "../images/twenty-twentyfive/liv-purpose.jpeg";
 import lip2 from "../images/twenty-twentyfive/lip2.jpg";
+import pdl from "../images/twenty-twentyfive/pdl.jpeg";
 
 const sermons = [
+  {
+    title: "A Purpose Driven Life",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 29th June 2025",
+    link: "https://drive.google.com/file/d/1dQtqPafoaCSgWQAfPDyBPvb1EePohZMK/view?usp=drive_link",
+    name: "A Purpose Driven Life - 22/06/25",
+    img: pdl,
+  },
   {
     title: "Living in Purpose - Understanding seasons in your calling",
     preacher: "Pst. Mayowa Agbelese",
