@@ -15,8 +15,17 @@ import tpc from "../images/twenty-twentyfive/tpc.jpg";
 import liv from "../images/twenty-twentyfive/liv-purpose.jpeg";
 import lip2 from "../images/twenty-twentyfive/lip2.jpg";
 import pdl from "../images/twenty-twentyfive/pdl.jpeg";
+import hot from "../images/twenty-twentyfive/hot.jpeg";
 
 const sermons = [
+  {
+    title: "Heart of Thanksgiving",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 6th July 2025",
+    link: "https://drive.google.com/file/d/1pD5s6B5sjZXG9hescXjQgVQzWVZYefSc/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: hot,
+  },
   {
     title: "A Purpose Driven Life",
     preacher: "Pst. Mayowa Agbelese",
