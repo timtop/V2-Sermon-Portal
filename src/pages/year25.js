@@ -16,8 +16,26 @@ import liv from "../images/twenty-twentyfive/liv-purpose.jpeg";
 import lip2 from "../images/twenty-twentyfive/lip2.jpg";
 import pdl from "../images/twenty-twentyfive/pdl.jpeg";
 import hot from "../images/twenty-twentyfive/hot.jpeg";
+import tgtb from "../images/twenty-twentyfive/tgtb.jpeg";
+import tgtb2 from "../images/twenty-twentyfive/tgtb2.jpeg";
 
 const sermons = [
+  {
+    title: "The Grace and The Blessing - Liberated, Christ paid it all",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 20th July 2025",
+    link: "https://drive.google.com/file/d/1S5Wix64W3OZijAROnhwRe2TAxnPBYBK1/view?usp=sharing",
+    name: "Priorities - 22/06/25",
+    img: tgtb2,
+  },
+  {
+    title: "The Grace and The Blessing",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 13th July 2025",
+    link: "https://drive.google.com/file/d/177aye4K_YrdkpKTw9xA6nKevvr5Awg2L/view?usp=sharing",
+    name: "Priorities - 22/06/25",
+    img: tgtb,
+  },
   {
     title: "Heart of Thanksgiving",
     preacher: "Pst. Mayowa Agbelese",
