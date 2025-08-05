@@ -18,8 +18,17 @@ import pdl from "../images/twenty-twentyfive/pdl.jpeg";
 import hot from "../images/twenty-twentyfive/hot.jpeg";
 import tgtb from "../images/twenty-twentyfive/tgtb.jpeg";
 import tgtb2 from "../images/twenty-twentyfive/tgtb2.jpeg";
+import water from "../images/twenty-twentyfive/water.jpeg";
 
 const sermons = [
+  {
+    title: "Walk on Water - God can be trusted",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 3rd August 2025",
+    link: "https://drive.google.com/file/d/1t51JsxeiHe6-jWv4r82qSs4HBl2QHfNS/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: water,
+  },
   {
     title: "The Grace and The Blessing - Liberated, Christ paid it all",
     preacher: "Pst. Mayowa Agbelese",
