@@ -19,8 +19,26 @@ import hot from "../images/twenty-twentyfive/hot.jpeg";
 import tgtb from "../images/twenty-twentyfive/tgtb.jpeg";
 import tgtb2 from "../images/twenty-twentyfive/tgtb2.jpeg";
 import water from "../images/twenty-twentyfive/water.jpeg";
+import revivalbegins from "../images/twenty-twentyfive/revival-begins.jpeg";
+import whirlwind from "../images/twenty-twentyfive/whirlwind.jpeg";
 
 const sermons = [
+  {
+    title: "A Whirlwind of Testimonies",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 17th August 2025",
+    link: "https://drive.google.com/file/d/1rdkVvvOl0IFKTtD9SxTAZummt4eqjr9P/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: whirlwind,
+  },
+  {
+    title: "How a Revival Begins",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 10th August 2025",
+    link: "https://drive.google.com/file/d/1tyOvfN7k-VJ-Xpv78RM3fqvVosL1jZxO/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: revivalbegins,
+  },
   {
     title: "Walk on Water - God can be trusted",
     preacher: "Pst. Mayowa Agbelese",
