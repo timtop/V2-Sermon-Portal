@@ -21,8 +21,17 @@ import tgtb2 from "../images/twenty-twentyfive/tgtb2.jpeg";
 import water from "../images/twenty-twentyfive/water.jpeg";
 import revivalbegins from "../images/twenty-twentyfive/revival-begins.jpeg";
 import whirlwind from "../images/twenty-twentyfive/whirlwind.jpeg";
+import breaking from "../images/twenty-twentyfive/breaking.jpg";
 
 const sermons = [
+  {
+    title: "Breaking Generational Patterns",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 7th September 2025",
+    link: "https://drive.google.com/file/d/1cSWmxjfBrgADXC_zWHESgcBgGTTA_k8p/view?usp=sharing",
+    name: "Priorities - 22/06/25",
+    img: breaking,
+  },
   {
     title: "A Whirlwind of Testimonies",
     preacher: "Pst. Mayowa Agbelese",
