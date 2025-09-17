@@ -22,8 +22,17 @@ import water from "../images/twenty-twentyfive/water.jpeg";
 import revivalbegins from "../images/twenty-twentyfive/revival-begins.jpeg";
 import whirlwind from "../images/twenty-twentyfive/whirlwind.jpeg";
 import breaking from "../images/twenty-twentyfive/breaking.jpg";
+import breakingii from "../images/twenty-twentyfive/breakingii.jpeg";
 
 const sermons = [
+  {
+    title: "Breaking Pattern, What to do to break the cycle",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 14th September 2025",
+    link: "https://drive.google.com/file/d/123TZ77t3qYwB7yes3gc3hpq2haXjHUKE/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: breakingii,
+  },
   {
     title: "Breaking Generational Patterns",
     preacher: "Pst. Mayowa Agbelese",
