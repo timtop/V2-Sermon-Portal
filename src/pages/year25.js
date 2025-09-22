@@ -23,8 +23,17 @@ import revivalbegins from "../images/twenty-twentyfive/revival-begins.jpeg";
 import whirlwind from "../images/twenty-twentyfive/whirlwind.jpeg";
 import breaking from "../images/twenty-twentyfive/breaking.jpg";
 import breakingii from "../images/twenty-twentyfive/breakingii.jpeg";
+import favour from "../images/twenty-twentyfive/favour.jpeg";
 
 const sermons = [
+  {
+    title: "Favor, The Game Changer",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 21st September, 2025",
+    link: "https://drive.google.com/file/d/1bZfEh7jt7dAbWtX90VEwTULWEMpz4QAe/view?usp=drive_link",
+    name: "Priorities - 22/06/25",
+    img: favour,
+  },
   {
     title: "Breaking Pattern, What to do to break the cycle",
     preacher: "Pst. Mayowa Agbelese",
