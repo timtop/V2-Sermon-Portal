@@ -24,8 +24,16 @@ import whirlwind from "../images/twenty-twentyfive/whirlwind.jpeg";
 import breaking from "../images/twenty-twentyfive/breaking.jpg";
 import breakingii from "../images/twenty-twentyfive/breakingii.jpeg";
 import favour from "../images/twenty-twentyfive/favour.jpeg";
+import fav from "../images/twenty-twentyfive/favii.jpg";
 
 const sermons = [
+  {
+    title: "Favour II - Heaven's Currency.",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 28th September, 2025",
+    link: "https://drive.google.com/file/d/1j9wsa73m4lbb3DrjsUgI0y8VQVcEsuZs/view?usp=drive_link",
+    img: fav,
+  },
   {
     title: "Favor, The Game Changer",
     preacher: "Pst. Mayowa Agbelese",
