@@ -25,8 +25,16 @@ import breaking from "../images/twenty-twentyfive/breaking.jpg";
 import breakingii from "../images/twenty-twentyfive/breakingii.jpeg";
 import favour from "../images/twenty-twentyfive/favour.jpeg";
 import fav from "../images/twenty-twentyfive/favii.jpg";
+import tgs from "../images/twenty-twentyfive/tgs1.jpeg";
 
 const sermons = [
+  {
+    title: "Thanksgiving Service - Building Your Life's Vision",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 5th October, 2025",
+    link: "https://drive.google.com/file/d/1NDtzvEk94wZnSmaUx5661arIfmGmsjng/view?usp=drive_link",
+    img: tgs,
+  },
   {
     title: "Favour II - Heaven's Currency.",
     preacher: "Pst. Mayowa Agbelese",
