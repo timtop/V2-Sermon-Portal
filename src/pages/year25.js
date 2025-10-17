@@ -26,8 +26,16 @@ import breakingii from "../images/twenty-twentyfive/breakingii.jpeg";
 import favour from "../images/twenty-twentyfive/favour.jpeg";
 import fav from "../images/twenty-twentyfive/favii.jpg";
 import tgs from "../images/twenty-twentyfive/tgs1.jpeg";
+import stb from "../images/twenty-twentyfive/stb.jpeg";
 
 const sermons = [
+  {
+    title: "Securing the Bag, Navigating through Biblical Finances",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 12th October, 2025",
+    link: "https://drive.google.com/file/d/1BTbPVcgAYnJxJmbFv4Vl0MpFz-9G52VH/view?usp=sharing",
+    img: stb,
+  },
   {
     title: "Thanksgiving Service - Building Your Life's Vision",
     preacher: "Pst. Mayowa Agbelese",
