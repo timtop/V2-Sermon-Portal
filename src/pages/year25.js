@@ -27,8 +27,16 @@ import favour from "../images/twenty-twentyfive/favour.jpeg";
 import fav from "../images/twenty-twentyfive/favii.jpg";
 import tgs from "../images/twenty-twentyfive/tgs1.jpeg";
 import stb from "../images/twenty-twentyfive/stb.jpeg";
+import stb2 from "../images/twenty-twentyfive/stb2.jpeg";
 
 const sermons = [
+  {
+    title: "Securing the Bag, How God Blesses You With Money",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 19th October, 2025",
+    link: "https://drive.google.com/file/d/1X3IFaKB6-7-vjRCXYa9tNZBfMQYVZnAU/view?usp=drive_link",
+    img: stb2,
+  },
   {
     title: "Securing the Bag, Navigating through Biblical Finances",
     preacher: "Pst. Mayowa Agbelese",
