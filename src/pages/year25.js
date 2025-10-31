@@ -28,8 +28,16 @@ import fav from "../images/twenty-twentyfive/favii.jpg";
 import tgs from "../images/twenty-twentyfive/tgs1.jpeg";
 import stb from "../images/twenty-twentyfive/stb.jpeg";
 import stb2 from "../images/twenty-twentyfive/stb2.jpeg";
+import stb3 from "../images/twenty-twentyfive/stb3.jpeg";
 
 const sermons = [
+  {
+    title: "Securing The Bag, God's Prosperity Plan",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 26th October, 2025",
+    link: "https://drive.google.com/file/d/18yryF6nOgZZsChs6PgTssa4BvaJbWGzs/view?usp=drive_link",
+    img: stb3,
+  },
   {
     title: "Securing the Bag, How God Blesses You With Money",
     preacher: "Pst. Mayowa Agbelese",
