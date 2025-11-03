@@ -29,8 +29,16 @@ import tgs from "../images/twenty-twentyfive/tgs1.jpeg";
 import stb from "../images/twenty-twentyfive/stb.jpeg";
 import stb2 from "../images/twenty-twentyfive/stb2.jpeg";
 import stb3 from "../images/twenty-twentyfive/stb3.jpeg";
+import secure from "../images/twenty-twentyfive/secure.jpeg";
 
 const sermons = [
+  {
+    title: "Securing The Bag",
+    preacher: "Pst. Mayowa Agbelese",
+    date: "Sunday 2nd November, 2025",
+    link: "https://drive.google.com/file/d/1B2r8MBEOmtP5sCHArhkGqDwfFa0z_dyW/view?usp=sharing",
+    img: secure,
+  },
   {
     title: "Securing The Bag, God's Prosperity Plan",
     preacher: "Pst. Mayowa Agbelese",
