@@ -30,8 +30,16 @@ import stb from "../images/twenty-twentyfive/stb.jpeg";
 import stb2 from "../images/twenty-twentyfive/stb2.jpeg";
 import stb3 from "../images/twenty-twentyfive/stb3.jpeg";
 import secure from "../images/twenty-twentyfive/secure.jpeg";
+import tsw from "../images/twenty-twentyfive/tsw.jpeg";
 
 const sermons = [
+  {
+    title: "The Spirit of Wisdom, Navigating Life Through Divine Insights",
+    preacher: "Gbohumi Adeniran",
+    date: "Sunday 16th November, 2025",
+    link: "https://drive.google.com/file/d/1VDqZTIog3RgMbgt6OJkbKeMlrWamzI1N/view?usp=drive_link",
+    img: tsw,
+  },
   {
     title: "Securing The Bag",
     preacher: "Pst. Mayowa Agbelese",
