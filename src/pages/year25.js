@@ -31,8 +31,16 @@ import stb2 from "../images/twenty-twentyfive/stb2.jpeg";
 import stb3 from "../images/twenty-twentyfive/stb3.jpeg";
 import secure from "../images/twenty-twentyfive/secure.jpeg";
 import tsw from "../images/twenty-twentyfive/tsw.jpeg";
+import som from "../images/twenty-twentyfive/som.jpeg";
 
 const sermons = [
+  {
+    title: "The Spirit of Might",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday 23rd November, 2025",
+    link: "https://drive.google.com/file/d/13FZXBuLxABx1Vhtt-t7iEdjoEgatY5ni/view?usp=drive_link",
+    img: som,
+  },
   {
     title: "The Spirit of Wisdom, Navigating Life Through Divine Insights",
     preacher: "Gbohumi Adeniran",
