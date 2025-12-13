@@ -42,6 +42,15 @@ const sermons = [
     link: "https://drive.google.com/file/d/19OF52VZXJDUFQC0wAZb3_TMndwhTR1hG/view?usp=sharing",
     img: wam,
   },
+
+  {
+    title: "A Special Worship & Miracle Service",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday 30th November, 2025",
+    link: "https://drive.google.com/file/d/19OF52VZXJDUFQC0wAZb3_TMndwhTR1hG/view?usp=sharing",
+    img: wam,
+  },
+
   {
     title: "The Spirit of Might",
     preacher: "Pst Mayowa Agbelese",
