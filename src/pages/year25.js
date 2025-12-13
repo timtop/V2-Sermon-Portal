@@ -35,13 +35,6 @@ import som from "../images/twenty-twentyfive/som.jpeg";
 import wam from "../images/twenty-twentyfive/wam.jpeg";
 
 const sermons = [
-  {
-    title: "A Special Worship & Miracle Service",
-    preacher: "Pst Mayowa Agbelese",
-    date: "Sunday 30th November, 2025",
-    link: "https://drive.google.com/file/d/19OF52VZXJDUFQC0wAZb3_TMndwhTR1hG/view?usp=sharing",
-    img: wam,
-  },
 
   {
     title: "A Special Worship & Miracle Service",
