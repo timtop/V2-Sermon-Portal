@@ -38,15 +38,6 @@ import dec15 from "../images/twenty-twentyfive/dec15.jpeg";
 const sermons = [
 
   {
-    title: "Thanksgiving Service: Festival Of Joy",
-    preacher: "Pst Mayowa Agbelese",
-    date: "Sunday 14th December, 2025",
-    link: "https://drive.google.com/file/d/1FhQphU6GvSazOwhs1-Gsp4U7fZpZ2VN6/view?usp=sharing",
-    img: dec15,
-  },
-
-
-  {
     title: "A Special Worship & Miracle Service",
     preacher: "Pst Mayowa Agbelese",
     date: "Sunday 30th November, 2025",
