@@ -33,6 +33,7 @@ import secure from "../images/twenty-twentyfive/secure.jpeg";
 import tsw from "../images/twenty-twentyfive/tsw.jpeg";
 import som from "../images/twenty-twentyfive/som.jpeg";
 import wam from "../images/twenty-twentyfive/wam.jpeg";
+import dec15 from "../images/twenty-twentyfive/dec15.jpeg";
 
 const sermons = [
 
