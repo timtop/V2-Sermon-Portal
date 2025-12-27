@@ -34,9 +34,20 @@ import tsw from "../images/twenty-twentyfive/tsw.jpeg";
 import som from "../images/twenty-twentyfive/som.jpeg";
 import wam from "../images/twenty-twentyfive/wam.jpeg";
 import Dec15 from "../images/twenty-twentyfive/Dec15.jpg";
+import Dec212025 from "../images/twenty-twentyfive/pre-christmas-service.jpeg";
+import Dec28 from "../images/twenty-twentyfive/last-sunday-2025.jpeg";
 
 const sermons = [
  
+
+  {
+    title: "Love Over Everything II",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday 21st December, 2025",
+    link: "https://drive.google.com/file/d/1npMm2hhkfmRXtj1nWjo9nbReMWhxh3Hx/view?usp=sharing",
+    img: Dec212025,
+  },
+
   {
     title: "Thanksgiving Service: Festival Of Joy",
     preacher: "Pst Mayowa Agbelese",
