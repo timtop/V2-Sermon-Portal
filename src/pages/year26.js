@@ -310,10 +310,10 @@ const sermons = [
 const tabs = [
   { path: "/", label: "2024" },
   { path: "/year25", label: "2025" },
-  {path: "/year26", label: "2026"},
+  { path: "/year26", label: "2026" }
 ];
 
-const year25 = () => {
+const year26 = () => {
   return (
     <>
       <Helmet>
