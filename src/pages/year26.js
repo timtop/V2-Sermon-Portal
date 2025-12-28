@@ -323,15 +323,15 @@ const year25 = () => {
         <Header />
 
         <div>
-          <Tabs tabs={tabs} activeTab="/year25" />
+          <Tabs tabs={tabs} activeTab="/year26" />
         </div>
 
-        <Sermon sermons={sermons} sermonYear={"2025 Sermons"} />
+        <Sermon sermons={sermons} sermonYear={"2026 Sermons"} />
       </main>
     </>
   );
 };
 
-export default year25;
+export default year26;
 
 export const Head = () => <title>Home Page</title>;
