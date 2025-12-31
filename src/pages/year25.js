@@ -35,10 +35,17 @@ import som from "../images/twenty-twentyfive/som.jpeg";
 import wam from "../images/twenty-twentyfive/wam.jpeg";
 import Dec15 from "../images/twenty-twentyfive/Dec15.jpg";
 import Dec212025 from "../images/twenty-twentyfive/pre-christmas-service.jpeg";
-import Dec28 from "../images/twenty-twentyfive/last-sunday-2025.jpeg";
+import Dec282025 from "../images/twenty-twentyfive/last-sunday-2025.jpeg";
 
-const sermons = [
- 
+const sermons = [ 
+
+  {
+    title: "Creating and Capturing a New Vision for the New Year",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday 28th December, 2025",
+    link: "https://drive.google.com/file/d/1QDY5BNF1FzcjEtFfqKwyQwx7IeO2dxvp/view",
+    img: Dec282025,
+  },
 
   {
     title: "Love Over Everything II",
