@@ -36,7 +36,7 @@ import wam from "../images/twenty-twentyfive/wam.jpeg";
 import Dec15 from "../images/twenty-twentyfive/Dec15.jpg";
 import Dec212025 from "../images/twenty-twentyfive/pre-christmas-service.jpeg";
 import Dec282025 from "../images/twenty-twentyfive/last-sunday-2025.jpeg";
-import Jan12026 from "../images/twenty-twenty-six/Jan12026.jpeg"
+import Jan12026 from "../images/twenty-twenty-six/jan12026.jpeg"
 
 const sermons = [ 
 
