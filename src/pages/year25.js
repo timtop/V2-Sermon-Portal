@@ -36,9 +36,18 @@ import wam from "../images/twenty-twentyfive/wam.jpeg";
 import Dec15 from "../images/twenty-twentyfive/Dec15.jpg";
 import Dec212025 from "../images/twenty-twentyfive/pre-christmas-service.jpeg";
 import Dec282025 from "../images/twenty-twentyfive/last-sunday-2025.jpeg";
+import Jan12026 from "../images/twenty-twenty-six/Jan12026.jpeg"
 
 const sermons = [ 
 
+  {
+    title: "Cross-over Service: Traverse",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Wednesday, 31st December, 2025",
+    link: "https://drive.google.com/file/d/1tgtrdDQlO5zpJtEQkdyvqMljItQ56ZYq/view",
+    img: Jan12026,
+  },
+  
   {
     title: "Creating and Capturing a New Vision for the New Year",
     preacher: "Pst Mayowa Agbelese",
