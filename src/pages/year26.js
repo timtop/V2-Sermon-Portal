@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
 import { Helmet } from "react-helmet";
-import Jan42026 from "../images/twenty-twenty-six/jan42026.jpeg";
+import Jan42026 from "../images/twenty-twenty-six/Jan42026.jpeg";
 
 const sermons = [
   {
