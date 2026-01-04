@@ -44,7 +44,7 @@ const sermons = [
     title: "Cross-over Service: Traverse",
     preacher: "Pst Mayowa Agbelese",
     date: "Wednesday, 31st December, 2025",
-    link: "https://drive.google.com/file/d/1tgtrdDQlO5zpJtEQkdyvqMljItQ56ZYq/view",
+    link: "https://drive.google.com/file/d/1H-KP_rB18uspOidSmBaPw8qUkuKRtg0Q/view?pli=1",
     img: Jan12026,
   },
   
