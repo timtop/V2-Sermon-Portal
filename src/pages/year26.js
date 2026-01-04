@@ -7,7 +7,7 @@ import Jan42026 from "../images/twenty-twenty-six/Jan42026.jpeg";
 
 const sermons = [
   {
-    title: "Pioneering Again",
+    title: "Thanksgiving Service: Pioneering Again",
     preacher: "Pst Mayowa Agbelese",
     date: "Sunday, 4th January, 2026",
     link: "https://drive.google.com/file/d/1ccQ21xxgOpz2ZDiK4g4k-tlNacG86E4K/view?usp=drivesdk",
