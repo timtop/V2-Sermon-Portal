@@ -3,9 +3,16 @@ import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
 import { Helmet } from "react-helmet";
+import Jan42026 from "../images/twenty-twenty-six/jan42026.jpeg";
 
 const sermons = [
-
+  {
+    title: "Pioneering Again",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday, 4th January, 2026",
+    link: "https://drive.google.com/file/d/1ccQ21xxgOpz2ZDiK4g4k-tlNacG86E4K/view?usp=drivesdk",
+    img: Jan42026,
+  },
 ];
 
 const tabs = [
@@ -27,7 +34,7 @@ const year26 = () => {
           <Tabs tabs={tabs} activeTab="/year26" />
         </div>
 
-        <Sermon sermons={sermons} sermonYear={"2026 Sermons - Coming Soon..."} />
+        <Sermon sermons={sermons} sermonYear={"2026 Sermons"} />
       </main>
     </>
   );
