@@ -4,7 +4,7 @@ import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
 import { Helmet } from "react-helmet";
 import Jan42026 from "../images/twenty-twenty-six/Jan42026.jpeg";
-import Jan112026 from "../images/twenty-twenty-six/11thjan2026.jpeg";
+import Jan112026 from "../images/twenty-twenty-six/11thjan2026.jpg";
 
 const sermons = [
 
