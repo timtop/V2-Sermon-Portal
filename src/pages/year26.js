@@ -5,9 +5,17 @@ import Tabs from "../components/Tab";
 import { Helmet } from "react-helmet";
 import Jan42026 from "../images/twenty-twenty-six/Jan42026.jpeg";
 import Jan112026 from "../images/twenty-twenty-six/11thjan2026.jpg";
+import Jan182026 from "../images/twenty-twenty-six/jan182026.jpeg";
 
 const sermons = [
 
+  {
+    title: "Pioneering Again III",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday, 18th January, 2026",
+    link: "https://drive.google.com/file/d/1cnXnWVhXppFDvzu8hNc4V8K_5m9Irzwr/view?usp=sharing",
+    img: Jan182026,
+  },
   {
     title: "Pioneering Again II",
     preacher: "Pst Mayowa Agbelese",
