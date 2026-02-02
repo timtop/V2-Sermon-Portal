@@ -6,10 +6,18 @@ import { Helmet } from "react-helmet";
 import Jan42026 from "../images/twenty-twenty-six/Jan42026.jpeg";
 import Jan112026 from "../images/twenty-twenty-six/11thjan2026.jpg";
 import Jan182026 from "../images/twenty-twenty-six/jan182026.jpeg";
-import Jan252026 from "../images/twenty-twenty-six/Jan252026.jpeg"
+import Jan252026 from "../images/twenty-twenty-six/Jan252026.jpeg";
+import Feb012026 from "../images/twenty-twenty-six/Feb012026.jpeg";
 
 const sermons = [
 
+  {
+    title: "A Friendship Carnival: Friend Ties",
+    preacher: "Pst Mayowa Agbelese",
+    date: "Sunday, 1st February, 2026",
+    link: "https://drive.google.com/file/d/1xROQFB_FpKeM8T3LaOxfGNuutw5d5rz1/view?usp=sharing",
+    img: Feb012026,
+  },
   {
     title: "Pioneering Again IV",
     preacher: "Pst Mayowa Agbelese",
