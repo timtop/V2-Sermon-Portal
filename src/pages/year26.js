@@ -8,9 +8,17 @@ import Jan112026 from "../images/twenty-twenty-six/11thjan2026.jpg";
 import Jan182026 from "../images/twenty-twenty-six/jan182026.jpeg";
 import Jan252026 from "../images/twenty-twenty-six/Jan252026.jpeg";
 import Feb012026 from "../images/twenty-twenty-six/Feb012026.jpeg";
+import Feb222026 from "../images/twenty-twenty-six/Feb222026.jpeg";
 
 const sermons = [
 
+  {
+    title: "Family Circles: Understanding Parenting",
+    preacher: "The Agbeleses",
+    date: "Sunday, 22nd February, 2026",
+    link: "https://drive.google.com/file/d/1Dm9mA5N_ezLCifRz_l7O8E1X2znBVoa9/view?usp=drive_link",
+    img: Feb222026,
+  },
   {
     title: "A Friendship Carnival: Friend Ties",
     preacher: "Pst Mayowa Agbelese",
