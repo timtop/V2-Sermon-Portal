@@ -9,9 +9,17 @@ import Jan182026 from "../images/twenty-twenty-six/jan182026.jpeg";
 import Jan252026 from "../images/twenty-twenty-six/Jan252026.jpeg";
 import Feb012026 from "../images/twenty-twenty-six/Feb012026.jpeg";
 import Feb222026 from "../images/twenty-twenty-six/Feb222026.jpeg";
+import March1st from "../images/twenty-twenty-six/March1st.jpeg"
 
 const sermons = [
 
+  {
+    title: "Thanksgiving Service: Loved By God",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 1st March, 2026",
+    link: "https://drive.google.com/file/d/1yGuhwK8-07KWNrj85zSyk2Dy5CBikfvc/view?usp=drive_link",
+    img: March1st,
+  },
   {
     title: "Family Circles: Understanding Parenting",
     preacher: "The Agbeleses",
