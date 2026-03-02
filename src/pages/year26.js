@@ -92,4 +92,4 @@ const year26 = () => {
 
 export default year26;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => <title>2026 Sermons</title>;

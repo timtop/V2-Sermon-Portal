@@ -351,4 +351,4 @@ const year25 = () => {
 
 export default year25;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => <title>2025 Sermons</title>;

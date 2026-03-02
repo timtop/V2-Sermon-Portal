@@ -53,4 +53,4 @@ const teachings = () => {
 
 export default teachings;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => <title>Business Teachings</title>;
