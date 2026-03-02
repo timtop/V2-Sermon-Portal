@@ -67,7 +67,8 @@ const sermons = [
 const tabs = [
   { path: "/", label: "2024" },
   { path: "/year25", label: "2025" },
-  { path: "/year26", label: "2026" }
+  { path: "/year26", label: "2026" },
+  { path: "/teachings", label: "Business Teachings" }
 ];
 
 const year26 = () => {
