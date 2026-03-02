@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Sermon from "../components/sermon";
 import Tabs from "../components/Tab";
 import { Helmet } from "react-helmet";
-import Jennjejelaye from "../images/teachings/Jennjejelaye.jpeg";
+import Jennjejelaye from "../images/teachings/JennJejelaye.jpeg";
 import Damilare from "../images/teachings/DamilareAJomale.jpeg";
 
 
