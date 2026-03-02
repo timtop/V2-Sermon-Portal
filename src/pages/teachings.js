@@ -51,6 +51,6 @@ const teachings = () => {
   );
 };
 
-export default year26;
+export default teachings;
 
 export const Head = () => <title>Home Page</title>;
