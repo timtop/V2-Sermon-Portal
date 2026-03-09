@@ -9,10 +9,18 @@ import Jan182026 from "../images/twenty-twenty-six/jan182026.jpeg";
 import Jan252026 from "../images/twenty-twenty-six/Jan252026.jpeg";
 import Feb012026 from "../images/twenty-twenty-six/Feb012026.jpeg";
 import Feb222026 from "../images/twenty-twenty-six/Feb222026.jpeg";
-import March1st from "../images/twenty-twenty-six/March1st.jpeg"
+import March1st from "../images/twenty-twenty-six/March1st.jpeg";
+import March8th from "../images/twenty-twenty-six/March082026.jpeg";
 
 const sermons = [
 
+  {
+    title: "Heart Matters: Embracing God's Love while Healing from Hurt",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 8th March, 2026",
+    link: "https://drive.google.com/file/d/1lGqV8UAZRCydv8_d4418EWDAyMFPI6y_/view?usp=drive_link",
+    img: March8th,
+  },
   {
     title: "Thanksgiving Service: Loved By God",
     preacher: "Pastor Mayowa Agbelese",
