@@ -11,9 +11,18 @@ import Feb012026 from "../images/twenty-twenty-six/Feb012026.jpeg";
 import Feb222026 from "../images/twenty-twenty-six/Feb222026.jpeg";
 import March1st from "../images/twenty-twenty-six/March1st.jpeg";
 import March8th from "../images/twenty-twenty-six/March082026.jpeg";
+import March15th from "../images/twenty-twenty-six/Pmaymarch15.jpeg";
 
 const sermons = [
 
+
+    {
+    title: "HeartCheck: Dealing with Bitterness Before It Destroys You",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 15th March, 2026",
+    link: "https://drive.google.com/file/d/1_sAWZrSlJQ221EQC5QHWNA4rDetgbsSX/view?usp=drive_link",
+    img: March15th,
+  },
   {
     title: "Heart Matters: Embracing God's Love while Healing from Hurt",
     preacher: "Pastor Mayowa Agbelese",

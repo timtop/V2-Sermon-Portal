@@ -6,10 +6,19 @@ import { Helmet } from "react-helmet";
 import Jennjejelaye from "../images/teachings/JennJejelaye.jpeg";
 import Damilare from "../images/teachings/DamilareAJomale.jpeg";
 import Comfort from "../images/teachings/ComfortTosin.jpeg";
+import Tomie from "../images/teachings/TomieBalogun.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Building a Business That Runs Without You: Scaling Beyond the Founder/Business Owner",
+    preacher: "Tomie Balogun",
+    date: "Sunday, 15th March, 2026",
+    link: "https://drive.google.com/file/d/135dLiE-fDA8JO1-s1-kG0S-pEXPhoAqd/view?usp=drive_link",
+    img: Tomie,
+  },
+  
   {
     title: "Profit is not an Accident: Predictable Sales, not Occassional Luck",
     preacher: "Comfort Oluwatosin Olugbami",
