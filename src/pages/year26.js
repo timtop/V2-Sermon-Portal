@@ -12,10 +12,17 @@ import Feb222026 from "../images/twenty-twenty-six/Feb222026.jpeg";
 import March1st from "../images/twenty-twenty-six/March1st.jpeg";
 import March8th from "../images/twenty-twenty-six/March082026.jpeg";
 import March15th from "../images/twenty-twenty-six/Pmaymarch15.jpeg";
+import March22nd from "../images/twenty-twenty-six/March222026.jpeg";
 
 const sermons = [
 
-
+  {
+    title: "Inside Out: Healing from Disappointment, Grief, and Pain",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 22th March, 2026",
+    link: "https://drive.google.com/file/d/18cZUNmDEXzjWSYh6JJdeSYjtTF2beT4L/view?usp=sharing",
+    img: March22nd,
+  },
     {
     title: "HeartCheck: Dealing with Bitterness Before It Destroys You",
     preacher: "Pastor Mayowa Agbelese",
