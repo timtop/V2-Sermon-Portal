@@ -13,9 +13,17 @@ import March1st from "../images/twenty-twenty-six/March1st.jpeg";
 import March8th from "../images/twenty-twenty-six/March082026.jpeg";
 import March15th from "../images/twenty-twenty-six/Pmaymarch15.jpeg";
 import March22nd from "../images/twenty-twenty-six/March222026.jpeg";
+import March29 from "../images/twenty-twenty-six/March292026.jpeg";
 
 const sermons = [
 
+  {
+    title: "Living Freely From The Heart: Freedom",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 29th March, 2026",
+    link: "https://drive.google.com/file/d/1J4P3NfimPVqsKNL8DZ3-TRUznHS3SUxF/view?usp=drive_link",
+    img: March22nd,
+  },
   {
     title: "Inside Out: Healing from Disappointment, Grief, and Pain",
     preacher: "Pastor Mayowa Agbelese",
