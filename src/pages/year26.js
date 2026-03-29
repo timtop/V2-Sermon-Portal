@@ -22,7 +22,7 @@ const sermons = [
     preacher: "Pastor Mayowa Agbelese",
     date: "Sunday, 29th March, 2026",
     link: "https://drive.google.com/file/d/1J4P3NfimPVqsKNL8DZ3-TRUznHS3SUxF/view?usp=drive_link",
-    img: March22nd,
+    img: March29,
   },
   {
     title: "Inside Out: Healing from Disappointment, Grief, and Pain",
