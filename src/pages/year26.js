@@ -24,7 +24,7 @@ const sermons = [
     preacher: "Pastor Mayowa Agbelese",
     date: "Sunday, 5th April, 2026",
     link: "https://drive.google.com/file/d/1iBTiy15Fu1PfrnadveAkBPDH61WbImJ-/view?usp=drive_link",
-    img: March29,
+    img: April52026,
   },
   {
     title: "Living Freely From The Heart: Freedom",
