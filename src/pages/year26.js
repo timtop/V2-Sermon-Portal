@@ -14,9 +14,18 @@ import March8th from "../images/twenty-twenty-six/March082026.jpeg";
 import March15th from "../images/twenty-twenty-six/Pmaymarch15.jpeg";
 import March22nd from "../images/twenty-twenty-six/March222026.jpeg";
 import March29 from "../images/twenty-twenty-six/March292026.jpeg";
+import April52026 from "../images/twenty-twenty-six/April52026.jpeg";
+
 
 const sermons = [
 
+  {
+    title: "The Greatest Comeback: The Death, Burial and Resurrection",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 5th April, 2026",
+    link: "https://drive.google.com/file/d/1iBTiy15Fu1PfrnadveAkBPDH61WbImJ-/view?usp=drive_link",
+    img: March29,
+  },
   {
     title: "Living Freely From The Heart: Freedom",
     preacher: "Pastor Mayowa Agbelese",
