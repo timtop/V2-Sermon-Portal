@@ -15,10 +15,18 @@ import March15th from "../images/twenty-twenty-six/Pmaymarch15.jpeg";
 import March22nd from "../images/twenty-twenty-six/March222026.jpeg";
 import March29 from "../images/twenty-twenty-six/March292026.jpeg";
 import April52026 from "../images/twenty-twenty-six/April52026.jpeg";
+import April122026 from "../images/twenty-twenty-six/April122026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Main Character: What You Don't Know About Jesus",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 12th April, 2026",
+    link: "https://drive.google.com/file/d/1zf4QecLzOXPI3JRmzvy-VaHuIP_j90n4/view?usp=drive_link",
+    img: April122026,
+  },
   {
     title: "The Greatest Comeback: The Death, Burial and Resurrection",
     preacher: "Pastor Mayowa Agbelese",
