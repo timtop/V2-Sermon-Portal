@@ -16,10 +16,18 @@ import March22nd from "../images/twenty-twenty-six/March222026.jpeg";
 import March29 from "../images/twenty-twenty-six/March292026.jpeg";
 import April52026 from "../images/twenty-twenty-six/April52026.jpeg";
 import April122026 from "../images/twenty-twenty-six/April122026.jpeg";
+import April192026 from "../images/twenty-twenty-six/April192026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Office of the Christ: How to Function as a King and a Priest",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 19th April, 2026",
+    link: "https://drive.google.com/file/d/1DI5ZR4UMAwNhltuEPEBxw_LZGxfuSK5v/view?usp=drive_link",
+    img: April192026,
+  },
   {
     title: "Main Character: What You Don't Know About Jesus",
     preacher: "Pastor Mayowa Agbelese",
