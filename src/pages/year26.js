@@ -17,10 +17,19 @@ import March29 from "../images/twenty-twenty-six/March292026.jpeg";
 import April52026 from "../images/twenty-twenty-six/April52026.jpeg";
 import April122026 from "../images/twenty-twenty-six/April122026.jpeg";
 import April192026 from "../images/twenty-twenty-six/April192026.jpeg";
+import May32026 from "../images/twenty-twenty-six/May3rd2026.jpeg";
 
 
 const sermons = [
 
+
+  {
+    title: "Overflow: Breakthrough and Miracle Service",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 3rd May, 2026",
+    link: "https://drive.google.com/file/d/1C8K8QRbLlwLyKEwygiaHSHwh11WceFWn/view?usp=drive_link",
+    img: May32026,
+  },
   {
     title: "Office of the Christ: How to Function as a King and a Priest",
     preacher: "Pastor Mayowa Agbelese",
