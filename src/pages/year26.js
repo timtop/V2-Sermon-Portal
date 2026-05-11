@@ -18,10 +18,18 @@ import April52026 from "../images/twenty-twenty-six/April52026.jpeg";
 import April122026 from "../images/twenty-twenty-six/April122026.jpeg";
 import April192026 from "../images/twenty-twenty-six/April192026.jpeg";
 import May32026 from "../images/twenty-twenty-six/May3rd2026.jpeg";
+import May102026 from "../images/twenty-twenty-six/May102026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "60:22 BLOOM: A Breakthrough Service",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 10th May, 2026",
+    link: "https://drive.google.com/file/d/1YTbSw_E2x5P6sbdbg42VKv_64nqeKBXD/view?usp=drive_link",
+    img: May102026,
+  },
 
   {
     title: "Overflow: Breakthrough and Miracle Service",
