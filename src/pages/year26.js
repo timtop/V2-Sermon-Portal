@@ -24,6 +24,14 @@ import June282026 from "../images/twenty-twenty-six/28June2026.jpeg";
 
 const sermons = [
 
+
+  {
+    title: "Faith: The Convenant and Mercy",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 28th June, 2026",
+    link: "https://drive.google.com/file/d/1xkmMRdRWdMOr_OdVY2HVCscYw0Q_fb7e/view?usp=drive_link",
+    img: June282026,
+  },
   {
     title: "60:22 BLOOM: A Breakthrough Service",
     preacher: "Pastor Mayowa Agbelese",
