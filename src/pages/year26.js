@@ -20,11 +20,19 @@ import April192026 from "../images/twenty-twenty-six/April192026.jpeg";
 import May32026 from "../images/twenty-twenty-six/May3rd2026.jpeg";
 import May102026 from "../images/twenty-twenty-six/May102026.jpeg";
 import June282026 from "../images/twenty-twenty-six/28June2026.jpeg";
+import July122026 from "../images/twenty-twenty-six/July122026.jpeg"; 
 
 
 const sermons = [
 
 
+  {
+    title: "Acceleration: Moving with speed by faith",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 12th July, 2026",
+    link: "https://drive.google.com/file/d/1ddq5VKq8j1_qDzWfSKAeyXWSohUeeSVU/view?usp=drive_link",
+    img: July122026,
+  },
   {
     title: "Faith: The Convenant and Mercy",
     preacher: "Pastor Mayowa Agbelese",
