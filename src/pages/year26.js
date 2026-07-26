@@ -22,11 +22,19 @@ import May102026 from "../images/twenty-twenty-six/May102026.jpeg";
 import June282026 from "../images/twenty-twenty-six/28June2026.jpeg";
 import July122026 from "../images/twenty-twenty-six/July122026.jpeg";
 import July192026 from "../images/twenty-twenty-six/July192026.jpeg"; 
+import July262026 from "../images/twenty-twenty-six/July262026.jpeg";
 
 
 const sermons = [
 
 
+  {
+    title: "Faith: Calling It Forth",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 26th July, 2026",
+    link: "https://drive.google.com/file/d/19LRbiMeenLdrVkjxXlgb30mrgf7HunUX/view?usp=drive_link",
+    img: July262026,
+  },
   {
     title: "Faith: The Art Of Discernment",
     preacher: "Pastor Mayowa Agbelese",
