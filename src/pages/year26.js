@@ -23,11 +23,19 @@ import June282026 from "../images/twenty-twenty-six/28June2026.jpeg";
 import July122026 from "../images/twenty-twenty-six/July122026.jpeg";
 import July192026 from "../images/twenty-twenty-six/July192026.jpeg"; 
 import July262026 from "../images/twenty-twenty-six/July262026.jpeg";
+import Aug022026  from "../images/twenty-twenty-six/Aug022026.jpeg";
 
 
 const sermons = [
 
 
+    {
+    title: "Faith: Faith and Sacrifice II",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 2nd August, 2026",
+    link: "https://drive.google.com/file/d/1-F1FmyL6AoByPO__JhNic6Mlu44CcZFW/view?usp=drive_link",
+    img: Aug022026,
+  },
   {
     title: "Faith: Calling It Forth",
     preacher: "Pastor Mayowa Agbelese",
