@@ -24,12 +24,20 @@ import July122026 from "../images/twenty-twenty-six/July122026.jpeg";
 import July192026 from "../images/twenty-twenty-six/July192026.jpeg"; 
 import July262026 from "../images/twenty-twenty-six/July262026.jpeg";
 import Aug022026  from "../images/twenty-twenty-six/Aug022026.jpeg";
+import Aug162026 from "../images/twenty-twenty-six/AUg162026.jpg";
 
 
 const sermons = [
 
 
-    {
+  {
+    title: "Oiled: Understanding The Anointing",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 16th August, 2026",
+    link: "https://drive.google.com/file/d/11ueWDRGS2DrpCQEvUA4copOZUj-TVA3r/view?usp=share_link",
+    img: Aug162026,
+  },
+  {
     title: "Faith: Faith and Sacrifice II",
     preacher: "Pastor Mayowa Agbelese",
     date: "Sunday, 2nd August, 2026",
