@@ -24,7 +24,7 @@ import July122026 from "../images/twenty-twenty-six/July122026.jpeg";
 import July192026 from "../images/twenty-twenty-six/July192026.jpeg"; 
 import July262026 from "../images/twenty-twenty-six/July262026.jpeg";
 import Aug022026  from "../images/twenty-twenty-six/Aug022026.jpeg";
-import Aug162026 from "../images/twenty-twenty-six/AUg162026.jpg";
+import Aug162026 from "../images/twenty-twenty-six/Aug162026.jpg";
 
 
 const sermons = [
