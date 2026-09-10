@@ -26,10 +26,18 @@ import July262026 from "../images/twenty-twenty-six/July262026.jpeg";
 import Aug022026  from "../images/twenty-twenty-six/Aug022026.jpeg";
 import Aug162026 from "../images/twenty-twenty-six/Aug162026.jpg";
 import Aug232026 from "../images/twenty-twenty-six/Aug232026.jpeg";
+import Oct062026 from "../images/twenty-twenty-six/Oct062026.jpg";
 
 
 const sermons = [
 
+  {
+    title: "Mercy: The Nature and The Character of Man",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 6th September, 2026",
+    link: "https://drive.google.com/file/d/1gsWj1jl-PNLULlWN4JUUVd82Qfs_i9Rc/view?usp=sharing",
+    img: Oct062026,
+  },
   {
     title: "Dynamo: Powered by God",
     preacher: "Pastor Mayowa Agbelese",
