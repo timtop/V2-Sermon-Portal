@@ -27,10 +27,18 @@ import Aug022026  from "../images/twenty-twenty-six/Aug022026.jpeg";
 import Aug162026 from "../images/twenty-twenty-six/Aug162026.jpg";
 import Aug232026 from "../images/twenty-twenty-six/Aug232026.jpeg";
 import Oct062026 from "../images/twenty-twenty-six/Oct6th2026.jpg";
+import Sept202026 from "../images/twenty-twenty-six/Sep202026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Mercy: The Justice System of God by the Blood of Jesus",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 20th September, 2026",
+    link: "https://drive.google.com/file/d/1OAEVKRZB3I7HyfIDPD2j7GVZX6Uuvxya/view?usp=drive_link",
+    img: Sept202026,
+  },
   {
     title: "Mercy: The Nature and The Character of Man",
     preacher: "Pastor Mayowa Agbelese",
