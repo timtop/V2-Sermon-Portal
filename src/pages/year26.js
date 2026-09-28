@@ -28,10 +28,18 @@ import Aug162026 from "../images/twenty-twenty-six/Aug162026.jpg";
 import Aug232026 from "../images/twenty-twenty-six/Aug232026.jpeg";
 import Oct062026 from "../images/twenty-twenty-six/Oct6th2026.jpg";
 import Sept202026 from "../images/twenty-twenty-six/Sep202026.jpeg";
+import Sept272026 from "../images/twenty-twenty-six/Sept272026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Stained: The Blood, How to Appropriate Mercy",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 27th September, 2026",
+    link: "https://drive.google.com/file/d/1-6DFwUALinK7pOXybA-fy2PaynL7I9Dt/view?usp=sharing",
+    img: Sept272026,
+  },
   {
     title: "Mercy: The Justice System of God by the Blood of Jesus",
     preacher: "Pastor Mayowa Agbelese",
