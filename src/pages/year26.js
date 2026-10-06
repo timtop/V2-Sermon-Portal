@@ -29,10 +29,18 @@ import Aug232026 from "../images/twenty-twenty-six/Aug232026.jpeg";
 import Oct062026 from "../images/twenty-twenty-six/Oct6th2026.jpg";
 import Sept202026 from "../images/twenty-twenty-six/Sep202026.jpeg";
 import Sept272026 from "../images/twenty-twenty-six/Sep272026.jpeg";
+import Oct042026 from "../images/twenty-twenty-six/Oct042026.jpeg";
 
 
 const sermons = [
 
+    {
+    title: "Culturalization: Kingdom Codes",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 4th October, 2026",
+    link: "https://drive.google.com/file/d/1zC1FP46ZbPmHYwHwiWJyJKtLugo1dP4t/view?usp=drive_link",
+    img: Oct042026,
+  },
   {
     title: "Stained: The Blood, How to Appropriate Mercy",
     preacher: "Pastor Mayowa Agbelese",
