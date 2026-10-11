@@ -30,11 +30,19 @@ import Oct062026 from "../images/twenty-twenty-six/Oct6th2026.jpg";
 import Sept202026 from "../images/twenty-twenty-six/Sep202026.jpeg";
 import Sept272026 from "../images/twenty-twenty-six/Sep272026.jpeg";
 import Oct042026 from "../images/twenty-twenty-six/Oct042026.jpeg";
+import Oct112026 from "../images/twenty-twenty-six/Oct112026.jpeg";
 
 
 const sermons = [
 
-    {
+  {
+    title: "The Soil and The Seed",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 11th October, 2026",
+    link: "https://drive.google.com/file/d/10zR77EKKEYokpAqOmvmo4iAGyuPANzfb/view?usp=sharing",
+    img: Oct112026,
+  },
+  {
     title: "Culturalization: Kingdom Codes",
     preacher: "Pastor Mayowa Agbelese",
     date: "Sunday, 4th October, 2026",
