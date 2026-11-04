@@ -33,10 +33,25 @@ import Oct042026 from "../images/twenty-twenty-six/Oct042026.jpeg";
 import Oct112026 from "../images/twenty-twenty-six/Oct112026.jpeg";
 import Oct182026 from "../images/twenty-twenty-six/Oct182026.jpeg";
 import Oct252026 from "../images/twenty-twenty-six/Oct252026.jpg";
+import Nov012026 from "../images/twenty-twenty-six/Nov012026.jpeg";
 
 
 const sermons = [
 
+  {
+    title: "Inject The Heart of Giving",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 1st November, 2026",
+    link: "https://drive.google.com/file/d/1mWn9luhZqMI-UXCnBB5GNiXn7n8fD0TN/view?usp=drive_link",
+    img: Oct252026,
+  },
+  {
+    title: "The Soil and The Seed Gather",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 1st November, 2026",
+    link: "https://drive.google.com/file/d/1mWn9luhZqMI-UXCnBB5GNiXn7n8fD0TN/view?usp=drive_link",
+    img: Oct252026,
+  },
   {
     title: "The Soil and The Seed Gather",
     preacher: "Pastor Mayowa Agbelese",
