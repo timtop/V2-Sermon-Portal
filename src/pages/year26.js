@@ -32,10 +32,18 @@ import Sept272026 from "../images/twenty-twenty-six/Sep272026.jpeg";
 import Oct042026 from "../images/twenty-twenty-six/Oct042026.jpeg";
 import Oct112026 from "../images/twenty-twenty-six/Oct112026.jpeg";
 import Oct182026 from "../images/twenty-twenty-six/Oct182026.jpeg";
+import Oct252026 from "../images/twenty-twenty-six/Oct252026.jpg";
 
 
 const sermons = [
 
+  {
+    title: "The Soil and The Seed Gather",
+    preacher: "Pastor Mayowa Agbelese",
+    date: "Sunday, 25th October, 2026",
+    link: "https://drive.google.com/file/d/1AR46tv7r9Wsnq37L5fSEd7YQlJL1ykDy/view?usp=sharing",
+    img: Oct252026,
+  },
   {
     title: "The Soil and The Seed: The Law of The Seed",
     preacher: "Pastor Mayowa Agbelese",
