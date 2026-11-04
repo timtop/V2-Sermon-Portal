@@ -43,14 +43,7 @@ const sermons = [
     preacher: "Pastor Mayowa Agbelese",
     date: "Sunday, 1st November, 2026",
     link: "https://drive.google.com/file/d/1mWn9luhZqMI-UXCnBB5GNiXn7n8fD0TN/view?usp=drive_link",
-    img: Oct252026,
-  },
-  {
-    title: "The Soil and The Seed Gather",
-    preacher: "Pastor Mayowa Agbelese",
-    date: "Sunday, 1st November, 2026",
-    link: "https://drive.google.com/file/d/1mWn9luhZqMI-UXCnBB5GNiXn7n8fD0TN/view?usp=drive_link",
-    img: Oct252026,
+    img: Nov012026,
   },
   {
     title: "The Soil and The Seed Gather",
